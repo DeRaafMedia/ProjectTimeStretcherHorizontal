@@ -103,7 +103,6 @@ void ofApp::keyPressed(int key){
             numberOfPortions--;
         }
     }
-    // frames
     if (key == 's') {
         if (numberOfFramesToRecord < maximumNumberOfFramesToRecord) {
             numberOfFramesToRecord++;
@@ -114,12 +113,10 @@ void ofApp::keyPressed(int key){
             numberOfFramesToRecord--;
         }
     }
-    // zoom
     if (key == 'd') {
         if (zoom < 5) {
             zoom ++;
         }
-        
     }
     if (key == 'c') {
         if (zoom > 1) {
