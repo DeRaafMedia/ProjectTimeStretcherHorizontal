@@ -1,7 +1,7 @@
 ProjectTimeStretcherHorizontal
 ==============================
 
-I rewrote a much played with Processing sketch to openframeworks. This show a way to do a vertical slit scan (Left / Right) on a live video feed. 
+I rewrote a much played with Processing sketch to openframeworks. This shows a way to do a vertical slit scan (Left / Right) on a live video feed. 
 
 This software is only tested on Mac OS X Yosemite and the 0.8.4 release of openframeworks.
 
